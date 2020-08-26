@@ -1,0 +1,30 @@
+/* .container{
+    max-width: 955px;
+    background-color: red;
+    height: 60vh;
+
+} */
+
+.message {
+  background-color: gray;
+  margin: auto;
+
+  width: 24%;
+  padding: 10px;
+  margin: 17px 12px;
+  border: 1px solid black;
+  border: radius 10px;
+}
+.left {
+  float: left;
+  clear: both;
+}
+.right {
+  float: right;
+  clear: both;
+}
+#send-container{
+    text-align: center;
+    max-width: 985;
+    height: 34px;
+}
